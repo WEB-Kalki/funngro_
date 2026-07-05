@@ -48,11 +48,11 @@ js/
 
 ## Live Demo
 
-Add your deployed website link here.
+https://web-kalki.github.io/funngro_
 
 ## GitHub Repository
 
-Add your repository link here.
+https://github.com/WEB-Kalki/funngro_
 
 ## Author
 
